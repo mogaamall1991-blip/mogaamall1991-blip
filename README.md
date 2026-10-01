@@ -1,138 +1,185 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohamedGamalFarouk.MohamedGamalFarouk">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mohamed+Gamal+Farouk;Document+Controller+%7C+AI+Automation+Learner;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="YOUR_LINKEDIN_URL" title="LinkedIn Profile">
+    LinkedIn
+  </a>
+  &nbsp;•&nbsp;
+  <a href="YOUR_EMAIL" title="Email">
+    Email
+  </a>
 </h4>
 
+<br>
+
+<p align="center">
+  Hi, I'm <strong>Mohamed Gamal Farouk</strong>, a Document Control professional with
+  <strong>10+ years of experience</strong> in construction and project environments.
+  <br>
+  <br>
+  📁 Specialized in Document Control, Document Management, Reporting & Records Management
+  <br>
+  💻 Experienced with Oracle Unifier, ICONS, Procore, EDMS/CRM & Microsoft Office
+  <br>
+  🤖 Currently learning AI Automation, Programming & Workflow Automation
+  <br>
+  📊 Interested in Data Automation, Excel Automation & AI-powered workflows
+  <br>
+  🚀 Building my first automation projects and developing my programming skills
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+I have more than 10 years of experience in Document Control and project documentation,
+working with consultants, contractors, technical teams and project stakeholders.
+<br><br>
+My current goal is to combine my professional experience in Document Control
+with <strong>AI, Programming and Automation</strong> to create practical solutions
+that reduce repetitive manual work and improve document and data workflows.
+</p>
+
+<hr>
+
+<h2 align="center">🔥 Professional Skills</h2>
+
+<br>
+
+<p align="center">
+
+<code>Document Control</code> <code>Document Management</code> <code>Document Distribution</code> <code>Document Tracking</code> <code>Reporting</code> <code>Data Entry</code> <code>Records Management</code> <code>Archiving</code> <code>Excel</code> <code>Microsoft Office</code> <code>Oracle Unifier</code> <code>ICONS</code> <code>Procore</code> <code>EDMS</code> <code>CRM</code>
+
+</p>
+
+<hr>
+
+<h2 align="center">🤖 Currently Learning</h2>
+
+<br>
+
+<p align="center">
+
+<code>AI Automation</code> <code>Workflow Automation</code> <code>Programming</code> <code>Python</code> <code>APIs</code> <code>Data Automation</code> <code>AI Tools</code> <code>LLMs</code>
+
+</p>
+
+<hr>
+
+<h2 align="center">🚀 My Automation Journey</h2>
+
+<br>
+
+<p align="center">
+
+📌 <strong>Stage 1:</strong> Learning Programming Fundamentals <br><br>
+📌 <strong>Stage 2:</strong> Learning AI & Workflow Automation <br><br>
+📌 <strong>Stage 3:</strong> Building Small Automation Projects <br><br>
+📌 <strong>Stage 4:</strong> Automating Document Control & Data Workflows <br><br>
+📌 <strong>Stage 5:</strong> Building AI-powered Business Solutions
+
+</p>
+
+<hr>
+
+<h2 align="center">💡 Areas I'm Interested In</h2>
+
+<br>
+
+<p align="center">
+
+📧 Email Automation <br>
+📊 Excel & Data Automation <br>
+📁 Document Control Automation <br>
+🔄 Workflow Automation <br>
+🤖 AI Assistants & AI Agents <br>
+📈 Automated Reports & Dashboards <br>
+🔗 API Integrations
+
+</p>
+
+<hr>
+
+<h2 align="center">📚 Current Focus</h2>
+
+<p align="center">
+
+I'm currently building my knowledge in AI Automation and Programming. <br>
+This GitHub profile will gradually include my learning projects,
+automation experiments and practical solutions.
+
+</p>
+
+<hr>
+
+<h2 align="center">📂 Projects</h2>
+
+<p align="center">
+
+🚧 <strong>Projects are currently being developed.</strong> <br><br>
+My first projects will focus on practical automation solutions
+related to document management, data processing and business workflows.
+
+</p>
+
+<hr>
+
+<h2 align="center">🎯 Career Direction</h2>
+
+<p align="center">
+
+<strong>
+Document Control
+&nbsp;→&nbsp;
+Data Automation
+&nbsp;→&nbsp;
+AI Automation
+&nbsp;→&nbsp;
+AI-Powered Business Solutions
+</strong>
+
+</p>
+
+<hr>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+
+I'm interested in connecting with professionals and organizations
+working in Document Control, Construction, Data, AI and Automation.
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL">
+  LinkedIn
+</a>
+
+  |  
+
+<a href="mailto:YOUR_EMAIL">
+  Email
+</a>
+
+</p>
+
+<hr>
+
+<p align="center">
+  <i>Learning today. Automating tomorrow. 🚀</i>
+</p>
 
 <!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
+This is a GitHub Profile README.
+Replace:
+YOUR_LINKEDIN_URL
+YOUR_EMAIL
+and the GitHub username in the visitor badge with your actual information.
 -->
